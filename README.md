@@ -58,25 +58,25 @@ Code in this repository is released under the MIT License.
 	|
 	|- code/                # any programmatic code
 	| |- fn_*.R             # functions
-        | |- get_*.R 	        # code for data processing
-        | |- model_*.R          # code for model fitting
-        | |- plot_*.R	        # code for figures generation
-        | +- table_*.R          # code for tables generation
-        |
-        |- results		# all output from workflows and analyses
-        | |- figures/		# graphs, likely designated for manuscript figures
-        | +- pictures/		# diagrams, images, and other non-graph graphics
-        |
-        |- manuscript/
-        | |- manuscript.Rmd	# executable Rmarkdown for this study
-        | |- manuscript.tex	# TeX version of *.Rmd file
-        | |- manuscript.pdf	# PDF version of *.Rmd file
-        | |- manuscript.docx	# Word version of *.Rmd file
-        | |- my_header.tex	# LaTeX header file to format pdf version of manuscript
-        | |- bibliography.bib	# BibTeX formatted references
-        | |- XXXX.csl		# csl file to format references for journal XXXX
-        | +- *.Rmd		# child documents
-        |
+    | |- get_*.R 	        # code for data processing
+    | |- model_*.R          # code for model fitting
+    | |- plot_*.R	        # code for figures generation
+    | +- table_*.R          # code for tables generation
+    |
+    |- results		# all output from workflows and analyses
+    | |- figures/		# graphs, likely designated for manuscript figures
+    | +- pictures/		# diagrams, images, and other non-graph graphics
+    |
+    |- manuscript/
+    | |- manuscript.Rmd	# executable Rmarkdown for this study
+    | |- manuscript.tex	# TeX version of *.Rmd file
+    | |- manuscript.pdf	# PDF version of *.Rmd file
+    | |- manuscript.docx	# Word version of *.Rmd file
+    | |- my_header.tex	# LaTeX header file to format pdf version of manuscript
+    | |- bibliography.bib	# BibTeX formatted references
+    | |- XXXX.csl		# csl file to format references for journal XXXX
+    | +- *.Rmd		# child documents
+    |
 	|- exploratory/         # exploratory data analysis
 	| |- nb_*/              # preliminary data analyses
 	| |- text/              # notes and related documents
