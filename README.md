@@ -1,3 +1,15 @@
+# Assessing the Importance of Spatial Scale in Climate-Health Models: the Effect of Temperature on Emergency Department Visits in Richmond, Virginia
+
+<!-- badges: start -->
+[![Lifecycle:
+stable](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://lifecycle.r-lib.org/articles/stages.html#stable)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20076108.svg)](https://doi.org/10.5281/zenodo.20076108)
+<!-- badges: end -->
+
+Citation:  
+```
+Le-Huynh, T.-L., Novicoff, W. M., DeGuzman, P. B., & Davis, R. E. (2026). Assessing the Importance of Spatial Scale in Climate-Health Models: the Effect of Temperature on Emergency Department Visits in Richmond, Virginia (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.20076108
+```
 
 This repository contains the code, analysis workflows, and supporting materials 
 used in the study on spatial-scale climatic variability in climate-health research.
