@@ -47,7 +47,7 @@ Code in this repository is released under the MIT License.
 ## Repo overview
 
 	project
-	|- README.md            # the top level description of content (this doc)
+	|- README.md              # the top level description of content (this doc)
 	|
 	|- data                   # raw and primary data, are not changed once created
 	| |- raw/                 # raw data, will not be altered
@@ -56,31 +56,31 @@ Code in this repository is released under the MIT License.
 	| |- RDSmodel/            # modeling outputs
 	| +- for_manuscript/      # intermediate outputs for manuscript preparation
 	|
-	|- code/                # any programmatic code
-	| |- fn_*.R             # functions
-    | |- get_*.R 	        # code for data processing
-    | |- model_*.R          # code for model fitting
-    | |- plot_*.R	        # code for figures generation
-    | +- table_*.R          # code for tables generation
+	|- code/                  # any programmatic code
+	| |- fn_*.R               # functions
+    | |- get_*.R 	          # code for data processing
+    | |- model_*.R            # code for model fitting
+    | |- plot_*.R	          # code for figures generation
+    | +- table_*.R            # code for tables generation
     |
-    |- results		# all output from workflows and analyses
-    | |- figures/		# graphs, likely designated for manuscript figures
-    | +- pictures/		# diagrams, images, and other non-graph graphics
+    |- results		          # all output from workflows and analyses
+    | |- figures/		      # graphs, likely designated for manuscript figures
+    | +- pictures/		      # diagrams, images, and other non-graph graphics
     |
     |- manuscript/
-    | |- manuscript.Rmd	# executable Rmarkdown for this study
-    | |- manuscript.tex	# TeX version of *.Rmd file
-    | |- manuscript.pdf	# PDF version of *.Rmd file
-    | |- manuscript.docx	# Word version of *.Rmd file
-    | |- my_header.tex	# LaTeX header file to format pdf version of manuscript
-    | |- bibliography.bib	# BibTeX formatted references
-    | |- XXXX.csl		# csl file to format references for journal XXXX
-    | +- *.Rmd		# child documents
+    | |- manuscript.Rmd	      # executable Rmarkdown for this study
+    | |- manuscript.tex		  # TeX version of *.Rmd file
+    | |- manuscript.pdf		  # PDF version of *.Rmd file
+    | |- manuscript.docx	  # Word version of *.Rmd file
+    | |- my_header.tex		  # LaTeX header file to format pdf version of manuscript
+    | |- bibliography.bib	  # BibTeX formatted references
+    | |- XXXX.csl		      # csl file to format references for journal XXXX
+    | +- *.Rmd		          # child documents
     |
-	|- exploratory/         # exploratory data analysis
-	| |- nb_*/              # preliminary data analyses
-	| |- text/              # notes and related documents
-	| +- scratch/           # temporary files that can be safely deleted or lost
+	|- exploratory/           # exploratory data analysis
+	| |- nb_*/                # preliminary data analyses
+	| |- text/                # notes and related documents
+	| +- scratch/             # temporary files that can be safely deleted or lost
 	|
-	+- Makefile             # executable Makefile for this study
+	+- Makefile               # executable Makefile for this study
 
