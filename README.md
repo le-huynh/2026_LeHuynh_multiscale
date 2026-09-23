@@ -8,12 +8,8 @@ stable](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://
 <!-- badges: end -->
 
 ## Citation  
-If you use the **research findings or results from the paper**, please cite the published article:
+
 > Le-Huynh, T.-L., Novicoff, W. M., DeGuzman, P. B., & Davis, R. E. (2026). Assessing the importance of spatial scale in climate-health models: The effect of temperature on emergency department visits in Richmond, Virginia. *GeoHealth*, 10, e2026GH001852. https://doi.org/10.1029/2026GH001852
-
-If you use or adapt the **code or reproducibility materials in this repository**, please cite the repository:
-> Le-Huynh, T.-L., Novicoff, W. M., DeGuzman, P. B., & Davis, R. E. (2026). Reproducible code for “Assessing the importance of spatial scale in climate-health models: The effect of temperature on emergency department visits in Richmond, Virginia” [Software]. *Zenodo*. https://doi.org/10.5281/zenodo.20076108
-
 
 This repository contains the code, analysis workflows, and supporting materials 
 used in the study on spatial-scale climatic variability in climate-health research.
